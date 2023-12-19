@@ -156,3 +156,6 @@ git init
 ./fortune.sh
 help
 help until
+git init
+git add
+git add .
