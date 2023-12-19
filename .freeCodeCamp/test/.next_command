@@ -150,3 +150,5 @@ echo ${RESPONSES[5]}
 ./fortune.sh
 help
 help function
+__vsc_prompt_cmd_original
+./fortune.sh
