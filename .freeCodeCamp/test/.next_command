@@ -59,3 +59,4 @@ help if
 ./countdown.sh
 ./countdown.sh 4
 ./countdown.sh 5
+help
